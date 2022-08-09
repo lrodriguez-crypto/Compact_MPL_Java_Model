@@ -1,9 +1,5 @@
 # Compact_MP_Java_Model
 
-# Compact-MPL
-
-- Mont
-
 	Java model of the Montomery Powering Ladder, and Montomery Multiplication.
 	To run this project it is required:
 		
