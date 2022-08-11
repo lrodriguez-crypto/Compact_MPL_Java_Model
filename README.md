@@ -1,5 +1,6 @@
 # Compact_MPL_Java_Model
 
+
 Java model of the Montomery Powering Ladder, and Montomery Multiplication.
 To run this project it is required:
 		
@@ -10,6 +11,8 @@ To run this project it is required:
 - JDK (tested on openjdk 17.0.4, it is possible to change java version for this project on the `build.gradle.kts` file)
 	- sudo apt install openjdk-17-jdk 
 	- sudo apt install openjdk-17-jre
+
+(Note: Previos version Tag 1.0.0 uses Ant and Ivy to build the project.)
 
 Command:
 	
