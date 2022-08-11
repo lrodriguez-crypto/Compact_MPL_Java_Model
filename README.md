@@ -7,7 +7,7 @@ To run this project it is required:
 - This project was implemented on Ubuntu 20.04.4
 (Java is multiplataform and it is expected to run on windows, mac, unix, etc).
 - Gradle (tested on 7.2)
-	- snap install gradle
+	- sudo snap install gradle
 - JDK (tested on openjdk 17.0.4, it is possible to change java version for this project on the `build.gradle.kts` file)
 	- sudo apt install openjdk-17-jdk 
 	- sudo apt install openjdk-17-jre
