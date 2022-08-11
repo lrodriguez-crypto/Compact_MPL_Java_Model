@@ -1,4 +1,4 @@
-# Compact_MP_Java_Model
+# Compact_MPL_Java_Model
 
 Java model of the Montomery Powering Ladder, and Montomery Multiplication.
 To run this project it is required:
