@@ -14,7 +14,7 @@ To run this project it is required:
 Command:
 	
 ```
-gradle cleanTest test --info 	(To run MPL tests)
+gradle cleanTest test --info 		(To run MPL tests)
 gradle tasks					(To shows options)
 gradle run					(To run main, not used in this project)
 ```
