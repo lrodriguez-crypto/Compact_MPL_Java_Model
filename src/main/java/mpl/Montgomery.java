@@ -1,10 +1,12 @@
+package mpl;
+
 import java.math.BigInteger;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
-import util.BIUtil;
-import util.MontgomeryUtil;
+import mpl.util.BIUtil;
+import mpl.util.MontgomeryUtil;
 
 public class Montgomery {
 	
