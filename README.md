@@ -13,8 +13,6 @@
 			- sudo apt install openjdk-17-jdk 
 			- sudo apt install openjdk-17-jre
 
-	To run this project it is required to have gradle, java, javac on your PATH.
-
 	Command:
 
 		gradle tasks								(To shows options)
@@ -26,3 +24,10 @@
 
 		<Root level="info">
 
+
+	Common problems:
+		Ensure to have have gradle, java and javac:
+
+		java --version
+		javac --version
+		gradle --version
