@@ -14,6 +14,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		log.info("To run MPL tests, please run (in your terminal):");
-		log.info("'gradle cleanTest test --info'");
+		log.info("'./gradlew cleanTest test --info'");
 	}
 }

@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "MPL"
-//include("app")
+include("app")
