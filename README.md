@@ -43,3 +43,17 @@ gradle --version
 	Gradle 7.2
 	------------------------------------------------------------
 ```
+
+- gradle not found after `sudo snap install gradle --classic`
+
+```
+bash: /usr/bin/gradle: No such file or directory
+```
+
+Solution:
+
+```
+echo 'export PATH=$PATH:/snap/bin' >> ~/.bashrc
+reboot
+gradle cleanTest test --info
+```
