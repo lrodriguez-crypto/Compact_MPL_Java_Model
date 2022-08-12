@@ -14,9 +14,9 @@ To run this project it is required:
 Command:
 	
 ```
-./gradlew cleanTest test --info 			(To run MPL tests)
-./gradle tasks					(To shows options)
-./gradle run					(To run main, not used in this project)
+./gradlew cleanTest test --info 		(To run MPL tests)
+./gradlew tasks					(To shows options)
+./gradlew run					(To run main, not used in this project)
 ```
 
 It is posible to edit the file src/test/resources/log4j2.xml to change logs level to `debug` or `trace` or `info` to show verbose information:
