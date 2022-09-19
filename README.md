@@ -13,12 +13,18 @@ To run this project it is required:
 
 Command:
 	
+To run MPL tests used in hw:
 ```
-./gradlew cleanTest test --info	(To run MPL tests used in hw)
-./gradlew tasks					(To shows options)
+./gradlew cleanTest test --info	
+```
+To show posible options
+```
+./gradlew tasks					
+```
 
-examples to run:
+To run some exponentiation with input values:
 
+```
 ./gradlew run --args='9e281106452ee93 b24da3dcbe17c3d7 2f7ce3d20af64195'
 ./gradlew run --args='fa1f00bf7d171ec 71df9c3d09fefd4 666dadd7e4b83c7'
 ```
